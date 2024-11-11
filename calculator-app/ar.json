@@ -6,13 +6,6 @@
     "languageCode": "ar"
   },
   "content": {
-    "openModels": "قائمة النماذج",
-    "modelsSearchFeild": "ابحث عن نموذج...",
-
-    "modelCalcTime": "حساب الوقت",
-    "modelCalcTimeD": "حساب الوقت ، هو نموذج لحساب الوقت",
-
-    "enLanguage": "الانجليزية",
-    "arLanguage": "العربية"
+    
   }
 }
