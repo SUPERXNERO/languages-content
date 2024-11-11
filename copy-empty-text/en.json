@@ -9,7 +9,7 @@
     "copyButton": "Copy Empty Text",
     "message": {
       "copy": "Empty Text Copied Successfully!",
-      "paypal": ""
+      "paypal": "The email address has been successfully copied! Please paste it into the input box on the PayPal page to send the funds. Thank you for your support!"
     },
     "communication-text": "Contact and support the developer"
   }
