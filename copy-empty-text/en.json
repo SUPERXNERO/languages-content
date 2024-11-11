@@ -1,9 +1,9 @@
 {
   "settings": {
-    "dir": "rtl",
-    "fontFamily": "Cairo",
+    "dir": "ltr",
+    "fontFamily": "Poppins",
     "className": "{language}",
-    "languageCode": "ar"
+    "languageCode": "en"
   },
   "content": {
     "copyButton": "Copy Empty Text",
