@@ -7,7 +7,10 @@
   },
   "content": {
     "copyButton": "Copy Empty Text",
-    "message": "Empty Text Copied Successfully!",
+    "message": {
+      "copy": "Empty Text Copied Successfully!",
+      "paypal": ""
+    },
     "communication-text": "Contact and support the developer"
   }
 }
