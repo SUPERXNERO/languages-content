@@ -6,6 +6,7 @@
     "languageCode": "ar"
   },
   "content": {
-    
+    "copyButton": "نسخ النص الفارغ",
+    "message": "تم نسخ النص الفارغ بنجاح!"
   }
 }
