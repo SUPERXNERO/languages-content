@@ -11,7 +11,7 @@
       "copy": "Empty Text Copied Successfully!",
       "paypal": "<span>The email address has been successfully copied! Please paste it into the input box on the PayPal page to send the funds. Thank you for your support!</span> <button>Go</button>"
     },
-    "communication-text": "Contact and support the developer",
-    "sponsored-by": "Sponsored by:"
+    "communicationYext": "Contact and support the developer",
+    "sponsoredBy": "Sponsored by:"
   }
 }
