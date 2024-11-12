@@ -14,6 +14,8 @@
     "communicationText": "Contact and support the developer",
     "sponsoredBy": "Sponsored by:",
     "sponsor1": "Abdulrahman Saeed",
-    "sponsor2": ""
+    "sponsor2": "",
+    "dark": "dark",
+    "light": "light"
   }
 }
