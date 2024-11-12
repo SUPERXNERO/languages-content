@@ -12,6 +12,8 @@
       "paypal": "<span>The email address has been successfully copied! Please paste it into the input box on the PayPal page to send the funds. Thank you for your support!</span> <button>Go</button>"
     },
     "communicationText": "Contact and support the developer",
-    "sponsoredBy": "Sponsored by:"
+    "sponsoredBy": "Sponsored by:",
+    "sponsor1": "Abdulrahman Saeed",
+    "sponsor2": ""
   }
 }
