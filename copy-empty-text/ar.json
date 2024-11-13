@@ -17,7 +17,13 @@
     "sponsor2": "",
     "dark": "داكن",
     "light": "فاتح",
-    "blueLight": "أزرق فاتح",
-    "greenDark": "أخضر داكن"
+    "pink": "وردي",
+    "red": "أحمر",
+    "orange": "برتقالي",
+    "yellow": "أصفر",
+    "green": "أخضر",
+    "blue": "أزرق",
+    "indigo": "نيلي",
+    "violet": "بنفسجي"
   }
 }
