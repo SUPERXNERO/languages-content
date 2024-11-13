@@ -15,7 +15,9 @@
     "sponsoredBy": "Sponsored by:",
     "sponsor1": "Abdulrahman Saeed",
     "sponsor2": "",
-    "dark": "dark",
-    "light": "light"
+    "dark": "Dark",
+    "light": "Light",
+    "blueLight": "Light Blue",
+    "greenDark": "Dark Green"
   }
 }
