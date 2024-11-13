@@ -17,7 +17,13 @@
     "sponsor2": "",
     "dark": "Dark",
     "light": "Light",
-    "blueLight": "Light Blue",
-    "greenDark": "Dark Green"
+    "pink": "Pink",
+    "red": "Red",
+    "orange": "Orange",
+    "yellow": "Yellow",
+    "green": "Green",
+    "blue": "Blue",
+    "indigo": "Indigo",
+    "violet": "Violet"
   }
 }
