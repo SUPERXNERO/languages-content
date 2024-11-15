@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "dir": "rtl",
+    "fontFamily": "Cairo",
+    "className": "{language}",
+    "languageCode": "ar"
+  },
+  "content": {
+    "communicationText": "الاتصال بالمطور ودعمه",
+    "paypal": "<span>تم نسخ البريد الإلكتروني بنجاح! يرجى لصقه في صندوق الإدخال على صفحة PayPal لإرسال الأموال. شكرًا لدعمك!</span> <button>الذهاب</button>",
+    "dark": "داكن",
+    "light": "فاتح"
+  }
+}
