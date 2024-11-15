@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "dir": "ltr",
+    "fontFamily": "Poppins",
+    "className": "{language}",
+    "languageCode": "en"
+  },
+  "content": {
+    "communicationText": "Contact and support the developer",
+    "paypal": "<span>The email address has been successfully copied! Please paste it into the input box on the PayPal page to send the funds. Thank you for your support!</span> <button>Go</button>",
+    "dark": "Dark",
+    "light": "Light"
+  }
+}
