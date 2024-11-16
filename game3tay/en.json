@@ -7,8 +7,22 @@
   },
   "content": {
     "title": "My university",
-    "preparatoryTitle": "preparatory year",
     "zaid": "Zaid Abdul Wahhab",
-    "developer": "Ibrahim Salah (developer)"
+    "developer": "Ibrahim Salah (developer)",
+    "preparatory": "preparatory year",
+    "mechanicalEngineering": "Mechanical Engineering",
+    "electricalEngineering": "Electrical Engineering",
+    "civilEngineering": "Civil Engineering",
+    "architecturalEngineering": "Architectural Engineering",
+    "computerScienceAndEngineering": "Computer Science and Engineering",
+    "electronicsAndCommunicationEngineering": "Electronics and Communication Engineering",
+    "informationTechnology": "Information Technology",
+    "marineEngineering": "Marine Engineering",
+    "mechatronicsAndEngineering": "Mechatronics and Engineering",
+    "firstYear": "First Year",
+    "secondYear": "Second Year",
+    "thirdYear": "Third Year",
+    "fourthYear": "Fourth Year",
+    "fifthYear": "Fifth Year"
   }
 }
