@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "dir": "ltr",
+    "fontFamily": "Poppins",
+    "className": "{language}",
+    "languageCode": "en"
+  },
+  "content": {
+    "title": "My university",
+    "preparatoryTitle": "preparatory year"
+  }
+}
