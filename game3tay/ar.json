@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "dir": "rtl",
+    "fontFamily": "Cairo",
+    "className": "{language}",
+    "languageCode": "ar"
+  },
+  "content": {
+    "title": "جامعتي",
+    "preparatoryTitle": "السنة التحضيرية"
+  }
+}
