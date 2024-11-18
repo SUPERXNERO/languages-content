@@ -3,6 +3,7 @@
     "dir": "ltr",
     "fontFamily": "Poppins",
     "className": "{language}",
+    "dataset": "{language}",
     "languageCode": "en"
   },
   "content": {
@@ -23,6 +24,13 @@
     "secondYear": "Second Year",
     "thirdYear": "Third Year",
     "fourthYear": "Fourth Year",
-    "fifthYear": "Fifth Year"
+    "fifthYear": "Fifth Year",
+    "themeText": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "contact": "Contact",
+    "language": "Language",
+    "ar": "Arabic",
+    "en": "English"
   }
 }
