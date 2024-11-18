@@ -3,6 +3,7 @@
     "dir": "rtl",
     "fontFamily": "Cairo",
     "className": "{language}",
+    "dataset": "{language}",
     "languageCode": "ar"
   },
   "content": {
@@ -23,6 +24,13 @@
     "secondYear": "سنة ثاني",
     "thirdYear": "سنة ثالث",
     "fourthYear": "سنة رابع",
-    "fifthYear": "سنة خامس"
+    "fifthYear": "سنة خامس",
+    "themeText": "الثيم",
+    "dark": "الداكن",
+    "light": "الفاتح",
+    "contact": "تواصل",
+    "language": "اللغة",
+    "ar": "العربية",
+    "en": "الإنجليزية"
   }
 }
