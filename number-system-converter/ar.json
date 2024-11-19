@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "dir": "rtl",
+    "fontFamily": "Cairo",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "ar"
+  },
+  "content": {
+    "title": "محول نظام الاعداد",
+    "zaid": "زيد عبدالوهاب",
+    "developer": "ابراهيم صلاح (المطور)",
+    "themeText": "الثيم",
+    "dark": "الداكن",
+    "light": "الفاتح",
+    "contact": "تواصل معنا",
+    "language": "اللغة",
+    "ar": "العربية",
+    "en": "الإنجليزية",
+    "enterNumberKeyword": "أدخل الرقم:",
+    "fromKeyword": "من:",
+    "toKeyword": "إلى:",
+    "binary": "الثنائي",
+    "octal": "الثماني",
+    "decimal": "العشري",
+    "hexadecimal": "السادس عشري",
+    "convertKeyword": "تحويل",
+    "convertedValueKeyword": "القيمة المحوّلة: <span id='convertedNumber'>${variableValue}</span>",
+    "emptyFeild": "من فضلك أدخل رقماً.",
+    "conversionError": "خطأ: رقم غير صالح للنظام المحدد.",
+    "copied": "تم نسخ الرقم بنجاح!"
+  }
+}
