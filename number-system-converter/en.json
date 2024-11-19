@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "dir": "ltr",
+    "fontFamily": "Poppins",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "en"
+  },
+  "content": {
+    "title": "Number System Converter",
+    "zaid": "Zaid Abdul Wahhab",
+    "developer": "Ibrahim Salah (developer)",
+    "themeText": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "contact": "Contact Us",
+    "language": "Language",
+    "ar": "Arabic",
+    "en": "English",
+    "enterNumberKeyword": "Enter Number:",
+    "fromKeyword": "From:",
+    "toKeyword": "To:",
+    "binary": "Binary",
+    "octal": "Octal",
+    "decimal": "Decimal",
+    "hexadecimal": "Hexadecimal",
+    "convertKeyword": "Convert",
+    "convertedValueKeyword": "Converted Value: <span id='convertedNumber'>${variableValue}</span>",
+    "emptyFeild": "Please enter a number.",
+    "conversionError": "Error: Invalid number for the selected system.",
+    "copied": "Number Copied Successfully!"
+  }
+}
