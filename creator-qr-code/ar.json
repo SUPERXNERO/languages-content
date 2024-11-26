@@ -1,0 +1,24 @@
+{
+  "settings": {
+    "dir": "rtl",
+    "fontFamily": "Cairo",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "ar"
+  },
+  "content": {
+    "title": "منشئ رمز QR",
+    "developer": "ابراهيم صلاح (المطور)",
+    "themeText": "الثيم",
+    "dark": "الداكن",
+    "light": "الفاتح",
+    "contact": "تواصل معنا",
+    "language": "اللغة",
+    "ar": "العربية",
+    "en": "الإنجليزية",
+    "enterTextKeyword": "ادخل النص:",
+    "QRBox": "هنا سوف يظهر",
+    "generateKeyword": "انشاء",
+    "downloadKeyword": "تحميل"
+  }
+}
