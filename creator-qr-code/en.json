@@ -1,0 +1,24 @@
+{
+  "settings": {
+    "dir": "ltr",
+    "fontFamily": "Poppins",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "en"
+  },
+  "content": {
+    "title": "Creator QR Code",
+    "developer": "Ibrahim Salah (developer)",
+    "themeText": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "contact": "Contact Us",
+    "language": "Language",
+    "ar": "Arabic",
+    "en": "English",
+    "enterTextKeyword": "Enter Text:",
+    "QRBox": "Here will appear",
+    "generateKeyword": "Generate",
+    "downloadKeyword": "Download"
+  }
+}
