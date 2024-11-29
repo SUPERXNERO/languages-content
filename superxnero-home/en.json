@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "dir": "ltr",
+    "fontFamily": "Poppins",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "en"
+  },
+  "content": {
+    "title": "GitHub Manager",
+    "developer": "Ibrahim Salah (developer)",
+    "themeText": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "contact": "Contact Us",
+    "language": "Language",
+    "ar": "Arabic",
+    "en": "English"
+  }
+}
