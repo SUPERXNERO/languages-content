@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "dir": "rtl",
+    "fontFamily": "Cairo",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "ar"
+  },
+  "content": {
+    "title": "مدير GitHub",
+    "developer": "ابراهيم صلاح (المطور)",
+    "themeText": "الثيم",
+    "dark": "الداكن",
+    "light": "الفاتح",
+    "contact": "تواصل معنا",
+    "language": "اللغة",
+    "ar": "العربية",
+    "en": "الإنجليزية"
+  }
+}
