@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "dir": "rtl",
+    "fontFamily": "Cairo",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "ar"
+  },
+  "content": {
+    "title": "اعرفني",
+    "zaid": "زيد عبدالوهاب",
+    "developer": "ابراهيم صلاح",
+    "themeText": "الثيم",
+    "dark": "الداكن",
+    "light": "الفاتح",
+    "contact": "تواصل مع المطور",
+    "language": "لغة الموقع",
+    "ar": "العربية",
+    "en": "الإنجليزية",
+    "nameKW": "الاسم",
+    "nicknameKW": "اللقب",
+    "aboutmeKW": "عني",
+    "contactMeKW": "تواصل معي",
+    "copyLinkKW": "نسخ الرابط",
+    "shareKW": "مشاركة",
+    "openKW": "فتح",
+    "copied": "تم النسخ",
+    "cantShare": "المشاركة غير مدعومة، يرجى نسخ الرابط ومشاركته يدويًا.",
+    "shareWasFailed": "المشاركة الغيت او فشلت"
+  }
+}
