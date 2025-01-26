@@ -26,6 +26,8 @@
     "openKW": "Open",
     "copied": "Copied",
     "cantShare": "Sharing is not supported. Please copy the link and share it manually.",
-    "shareWasFailed": "Sharing is canceled or failed"
+    "makeNewCard": "Do you want to create your own (Know Me)? Click here!",
+    "contactDev": "Contact developer on WhatsApp to get (Know Me) for you !",
+    "contactDevBtn": "Contact him now !"
   }
 }
