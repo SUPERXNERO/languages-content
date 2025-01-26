@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "dir": "ltr",
+    "fontFamily": "Poppins",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "en"
+  },
+  "content": {
+    "title": "Know Me",
+    "zaid": "Zaid Abdul Wahhab",
+    "developer": "Ibrahim Salah",
+    "themeText": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "contact": "Contact developer",
+    "language": "Site's language",
+    "ar": "Arabic",
+    "en": "English",
+    "nameKW": "Name",
+    "nicknameKW": "Nickname",
+    "aboutmeKW": "About me",
+    "contactMeKW": "Contact me",
+    "copyLinkKW": "Copy link",
+    "shareKW": "Share",
+    "openKW": "Open",
+    "copied": "Copied",
+    "cantShare": "Sharing is not supported. Please copy the link and share it manually.",
+    "shareWasFailed": "Sharing is canceled or failed"
+  }
+}
