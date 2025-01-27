@@ -28,6 +28,12 @@
     "cantShare": "Sharing is not supported. Please copy the link and share it manually.",
     "makeNewCard": "Do you want to create your own (Know Me)? Click here!",
     "contactDev": "Contact developer on WhatsApp to get (Know Me) for you !",
-    "contactDevBtn": "Contact him now !"
+    "contactDevBtn": "Contact him now !",
+    "noShownData": "The person has not specified any data to display here !",
+    "noDataForThisId": "There is no data for this id !",
+    "goToDevCard": "Try developer's (Know Me)",
+    "createQRCode": "Create QR Code",
+    "downloadQRCode": "Download QR Code",
+    "madeByCreatorQR": "Made by Creator QR Code"
   }
 }
