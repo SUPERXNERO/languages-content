@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "dir": "ltr",
+    "fontFamily": "Poppins",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "en"
+  },
+  "content": {
+    "title": "Threads",
+    "developer": "Ibrahim Salah",
+    "themeText": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "contact": "Contact developer",
+    "language": "Site's language",
+    "ar": "Arabic",
+    "en": "English"
+  }
+}
