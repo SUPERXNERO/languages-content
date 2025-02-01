@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "dir": "rtl",
+    "fontFamily": "Cairo",
+    "className": "{language}",
+    "dataset": "{language}",
+    "languageCode": "ar"
+  },
+  "content": {
+    "title": "ثريدز",
+    "developer": "ابراهيم صلاح",
+    "themeText": "الثيم",
+    "dark": "الداكن",
+    "light": "الفاتح",
+    "contact": "تواصل مع المطور",
+    "language": "لغة الموقع",
+    "ar": "العربية",
+    "en": "الإنجليزية"
+  }
+}
